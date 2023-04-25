@@ -1,0 +1,32 @@
+package composition.Person;
+
+
+public class Person {
+    private String firstName;
+    private String lastName;
+    private Address address;
+
+    public Person(String firstName, String lastName, Address address) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.address = address;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public Address getAddress() {
+        return address;
+    }
+
+    public static void main(String[] args) {
+        Address address =  new Address("Pacii", "Craiova","020343");
+        Person person = new Person("Costel", "Ion", address);
+        System.out.println("City: " + person.getAddress().getCity());
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GAD-Java-spring2023.iml" filepath="$PROJECT_DIR$/.idea/GAD-Java-spring2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAPI/JavaAPI.iml" filepath="$PROJECT_DIR$/JavaAPI/JavaAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
